@@ -9,3 +9,5 @@ Connect your external drive.
 Run program with commands "Drive label", "Library name".
 
 CAUTION ! Existing files will be overridden by new ones.
+
+It is just a simple program made for personal needings, written 3 hours.
