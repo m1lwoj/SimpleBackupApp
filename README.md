@@ -8,4 +8,4 @@ Connect your external drive.
 
 Run program with commands "Drive label", "Library name".
 
-CAUTION ! Existing files will be overriden by new ones.
+CAUTION ! Existing files will be overridden by new ones.
